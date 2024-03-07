@@ -1,6 +1,13 @@
 # Algerian--Forest--Fires
+
 # END TO END MACHINE LEARNING PROJECT
-# I AM CREATE A WEB APPLICATION USE FOR FLASK PYTHON FREAMWORK
+
+ - I AM CREATE A WEB APPLICATION USE FOR FLASK PYTHON FREAMWORK
+   
+# how to run?
+```bash
+https://github.com/raghavpatel2507/Algerian--Forest--Fires.git
+```
 
 
 # Website Page
